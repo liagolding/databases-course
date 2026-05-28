@@ -198,3 +198,4 @@ insert into personal_movies_ranking(movie_id, recommendation, suggested_by, just
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (97727, 4, 'liagolding', 'I mostly dont like unreal fantasy', null);  # Edward Scissorhands 1990
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (185704, 8, 'liagolding', 'I like Hollywood stars and deep drama', null);  # Last Temptation of Christ 1988
 insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (14157, 7, 'liagolding', 'I like drama movies', null);  # American Reunion, An 2003
+insert into personal_movies_ranking(movie_id, recommendation, suggested_by, justification, comment) values (257124, 10, 'liagolding', 'I like Hollywood stars and puzzle-like psychological drama', null);  # Prestige, The 2006
